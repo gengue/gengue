@@ -8,11 +8,11 @@
 
 - 🔭 I’m currently working on [Ventura TRAVEL GmbH](https://www.venturatravel.org/)
 
-- 🌱 I’m currently learning **Web3, Solidjs**
+- 🌱 I’m currently learning **Web3, DApps, Web Components**
 
 - 👨‍💻 All of my projects are available at [https://www.linkedin.com/in/genesis-guerrero/](https://www.linkedin.com/in/genesis-guerrero/)
 
-- 💬 Ask me about **javascript, react, software architecture**
+- 💬 Ask me about **javascript, react, python, software architecture**
 
 - 📫 How to reach me **via twitter @geneguer**
 
