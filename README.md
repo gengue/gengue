@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on [Ventura TRAVEL GmbH](https://www.venturatravel.org/)
 
-- 🌱 I’m currently learning **Web3, DApps, Web Components**
+- 🌱 I’m currently learning **Golang, Web3, DApps, Solidjs, Web Components**
 
 - 👨‍💻 All of my projects are available at [https://www.linkedin.com/in/genesis-guerrero/](https://www.linkedin.com/in/genesis-guerrero/)
 
