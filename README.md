@@ -16,6 +16,8 @@
 
 - 📫 How to reach me **via twitter @geneguer**
 
+- 📍 I’m located in Norway 🇳🇴
+
 - ⚡ Fun fact **I love craft beer**
 
 <h3 align="left">Connect with me:</h3>
