@@ -16,7 +16,7 @@
 
 - 📫 How to reach me **via twitter @geneguer**
 
-- 📍 I’m located in Norway 🇳🇴
+- 📍 I’m based in Norway 🇳🇴
 
 - ⚡ Fun fact **I love craft beer**
 
