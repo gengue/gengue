@@ -8,7 +8,9 @@
 
 - 🔭 I’m currently working on [Ventura TRAVEL GmbH](https://www.venturatravel.org/)
 
-- 🌱 I’m currently learning **Golang**
+- 🛠️ I’m currently building **AI-based web applications** and **Architectural visualization services**
+
+- 🌱 I’m currently playing with **Golang** 
 
 - 👨‍💻 All of my projects are available at [https://www.linkedin.com/in/genesis-guerrero/](https://www.linkedin.com/in/genesis-guerrero/)
 
